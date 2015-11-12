@@ -1,0 +1,21 @@
+{
+  "name": "webapp-angular",
+  "version": "1.0.0",
+  "description": "AngularJS web app structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexjander Bacalso",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-sass": "^2.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "angular": "^1.4.7"
+  }
+}
